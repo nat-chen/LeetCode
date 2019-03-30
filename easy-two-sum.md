@@ -15,7 +15,7 @@ return [0, 1]
 ### 方法1：暴力破解
 
 #### 思路
-* 两个 for 循环遍历，暴力破解。
+* 两个 for 循环遍历，暴力破解
 
 ```js
 const twoSum = function(nums, target) {
