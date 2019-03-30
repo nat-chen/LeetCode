@@ -49,4 +49,3 @@ const twoSum = function(nums, target) {
     hashTable[current] = i;
   }
 };
-···
